@@ -1,4 +1,4 @@
-rating	review 	jenis_review
+rating	review	jenis_review
 1	"Bagaimana bisa,,data di KTP saya, saya isi ke aplikasi peduli lindungi bisa tidak singkron, ini ktp asli lho bos!!!! Bisa2 nya bisa muncul tulisan ""sesuaikan nama dan nik anda dengan Ktp"" , saya harus mengadu kemana telpon ke 119 ex 9,, ga bisa terus,, jangan bikin bingung bos kalo bikin aplikasi,!!"	0
 1	"Saya kasih satu dulu karena aplikasi saat didownload bisa, tapi saat sudah ditutup dan ingin dibuka lagi tidak bisa, tampilan yang terbuka hanya ""izinkan akses lokasi"" yang kalau ditekan malah menampilkan info aplikasi???!!!! Tidak bisa diapa2in lagi, menu utama atau menu lain selain ""izinkan akses"	0
 1	"Admin. Masalah saya yg pertama saat melakukan pendaftaran vaksinasi perdana adalah, ""internal server error"". Setelahnya melakukannya lagi berulang-ulang, masalah kedua muncul "" Nama tidak sesuai Nik"". Padalah sebelumnya bisa dan terdata, setelahnya malah gk bisa. Anda akan menyuruh saya melakukannya"	0
